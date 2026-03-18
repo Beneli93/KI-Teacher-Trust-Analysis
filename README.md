@@ -47,5 +47,4 @@ Das Power BI Dashboard visualisiert die demografische Verteilung und identifizie
 * `03_PowerBI_Dashboard`: Dashboard-Datei (.pbix) und Screenshot.
 * `04_Presentation_Docs`: Abschlusspräsentation und Dokumentation.
 
----
-*Erstellt im Rahmen des Moduls Datenanalyse / Machine Learning.*
+
